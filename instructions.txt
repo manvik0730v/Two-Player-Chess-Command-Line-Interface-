@@ -1,0 +1,14 @@
+
+How to Play
+
+Every square has a name like “a2” or “f7” (letter = column, number = row).
+To move, type the square your piece is on, then the square you want it to go to.
+
+Example:
+a2a4 → move the piece from a2 to a4.
+
+Make sure: 
+All letters are lowercase. 
+There are no spaces in the move
+
+If you want to quit the match, type r or R.
